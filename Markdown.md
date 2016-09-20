@@ -35,3 +35,13 @@ We are done here
 
 :relieved:
 :runner:
+
+* Table
+
+| CLASS | NAME |
+--------|-------
+|Kesagani| Agile|
+|Monicah| HAZEL|
+
+
+
